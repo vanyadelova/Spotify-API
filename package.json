@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
     "pg": "6",
     "sequelize": "^4.41.2"
   }
