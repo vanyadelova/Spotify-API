@@ -1,0 +1,11 @@
+{
+  "name": "spotify-api-homework-week5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "6",
+    "sequelize": "^4.41.2"
+  }
+}
